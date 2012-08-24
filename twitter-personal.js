@@ -13,7 +13,7 @@ if(!window.twttr){window.twttr={}}(function(){twttr.txt={};twttr.txt.regexen={};
 new TWTR.Widget({
   version: 2,
   type: 'profile',
-  rpp: 1,
+  rpp: 5,
   interval: 30000,
   width: 250,
   height: 300,
