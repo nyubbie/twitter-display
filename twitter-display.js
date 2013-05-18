@@ -25,7 +25,7 @@ new TWTR.Widget({
     tweets: {
       background: 'none',
       color: '#D4D4D4',
-      links: '#2babf5'
+      links: '#47b5f4'
     }
   },
   features: {
